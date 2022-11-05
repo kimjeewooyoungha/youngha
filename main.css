@@ -4,4 +4,30 @@ h3,
 h4,
 h5,
 h6{font-family: 'NanumSquare', san-serif;}
-p{font-family: black han sans', sans-serif;}
+p.subtitle{font-family:'black han sans', sans-serif;}
+
+.main-text{font-weight: 200;
+     font-size: 20px;
+     text-alian: justify;
+     letter-spacing: -0.05;
+     word-spacing:1.0em}
+
+.main-wrapper{with:500px;
+             margin 0 auto;}
+
+.div-pad{padding: 15px 30px 40px50px;}
+
+.box-a{with:100px
+       height:100px;
+       background-color: green;
+       display:block;}
+
+.box-b{with:100px
+       height:100px;
+       background-color: red;
+       display:block;}
+
+.box-c{with:100px
+       height:100px;
+       background-color: blue;
+       display:block;}
